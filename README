@@ -17,5 +17,5 @@ Install
 
 .. code-block:: bash
 
-   $ easy_install -U sphinxcontrib-erlangdomain
+   $ easy_install -U sphinxcontrib-objc
 
