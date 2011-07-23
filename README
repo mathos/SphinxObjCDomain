@@ -1,0 +1,21 @@
+==================
+Objective C Domain
+==================
+
+:author: Mathos Marcer <mathos dot marcer at gmail dot com>
+
+About
+=====
+
+A start at creating an Objective C domain for sphinx.  Far from complete, right now there is only support for methods.
+
+  
+
+
+Install
+=======
+
+.. code-block:: bash
+
+   $ easy_install -U sphinxcontrib-erlangdomain
+
